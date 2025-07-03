@@ -59,35 +59,5 @@ This work presents a computational thermodynamic investigation using custom-buil
 
 ---
 
-## 🧠 Want to Reproduce?
 
-1. Clone this repo  
-2. Open FactSage → Create custom databases using `/data` folder values  
-3. Run simulations via Phase Diagram module  
-4. Compare with provided results in `/diagrams`
 
----
-
-## ✍️ Citation
-
-If you find this work useful, please cite:
-
-**Hafsa Raza**, *How do graphite, graphene, and diamond alter the melting point and eutectic features in the Ni–C phase binary diagram?* McGill University, Department of Mining and Materials Engineering, 2025.
-
----
-
-## 💡 Fun Fact
-
-Did you know? Graphene and diamond are made of the same element—**carbon**—but behave like totally different materials just because of their atomic structure. That’s phase science magic ✨
-
----
-
-## 📬 Contact
-
-For questions or collaboration:
-**hafsa.raza@mail.mcgill.ca**  
-`PhD Student – Materials Engineering, McGill University`
-
----
-
-⭐ Star this repo if you're passionate about materials science and thermodynamic modeling!
