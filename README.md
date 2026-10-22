@@ -52,10 +52,10 @@ This work presents a computational thermodynamic investigation using custom-buil
 
 ##  Applications
 
-✅ Chemical Vapor Deposition (CVD)  
-✅ Diamond growth (HPHT techniques)  
-✅ Alloy design and carbon solubility tuning  
-✅ 2D materials synthesis
+Chemical Vapor Deposition (CVD)  
+Diamond growth (HPHT techniques)  
+Alloy design and carbon solubility tuning  
+2D materials synthesis
 
 ---
 
