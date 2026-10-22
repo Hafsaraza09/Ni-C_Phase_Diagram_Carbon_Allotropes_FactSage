@@ -2,7 +2,7 @@
 This repository includes the methodology, thermodynamic data setup, and results of a Ni–C phase diagram study using FactSage. It explores the impact of graphite, diamond, and graphene on eutectic behavior, solubility limits, and phase stability, with applications in CVD graphene and carbon material design.
 
 
-# 🧪 Ni–C Phase Diagram Modeling with Graphite, Diamond & Graphene
+#  Ni–C Phase Diagram Modeling with Graphite, Diamond & Graphene
 
 Welcome to this repository, where thermodynamics meets advanced materials science!
 
@@ -10,7 +10,7 @@ This project explores how different carbon allotropes—**graphite**, **diamond*
 
 ---
 
-## 📌 Project Summary
+##  Project Summary
 
 This work presents a computational thermodynamic investigation using custom-built private databases in FactSage to simulate and compare the Ni–C phase diagrams for different solid carbon forms. It highlights how carbon structure impacts phase equilibria and informs the design of carbon-based materials like:
 
@@ -20,7 +20,7 @@ This work presents a computational thermodynamic investigation using custom-buil
 
 ---
 
-## 📂 Repository Contents
+##  Repository Contents
 
 | Folder/File         | Description                                                   |
 |---------------------|---------------------------------------------------------------|
@@ -32,7 +32,7 @@ This work presents a computational thermodynamic investigation using custom-buil
 
 ---
 
-## ⚙️ Software & Tools
+##  Software & Tools
 
 - **FactSage 8.3**  
 - **Compound & Phase Diagram Modules**
@@ -41,7 +41,7 @@ This work presents a computational thermodynamic investigation using custom-buil
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 - Eutectic temperature decreases ~20–30 °C with graphene/diamond.
 - Eutectic composition shifts higher with metastable carbon phases.
@@ -50,7 +50,7 @@ This work presents a computational thermodynamic investigation using custom-buil
   
 ---
 
-## 📈 Applications
+##  Applications
 
 ✅ Chemical Vapor Deposition (CVD)  
 ✅ Diamond growth (HPHT techniques)  
